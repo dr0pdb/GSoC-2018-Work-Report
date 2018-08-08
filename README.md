@@ -67,9 +67,10 @@ The third coding phase involved implementation of the remaining targets of the p
 By this time, we were able to successfully achieve all the targets of the program. Since we had a good part of 2 weeks left in the coding phase we decided to go ahead with our stretch goals. The first stretch goal accomplished was the implementation of the *Attendee form builder* both on the server and frontend side. Now the event organizer could specify what information to collect from the ticket buyers which was a highly demanded feature. With a week still left in the coding period, we decided to integrate action buttons in the *Notification panel*. We started off with the server side support and quickly moved on to it's frontend integration.
 Apart from the above mentioned features, we spent a lot of time on fixing minor bugs and addition of unit tests whenever possible.
 
-| [Notification Panel](https://github.com/fossasia/open-event-frontend/issues/1112) | 
-| --- | 
-| <img src="https://i.imgur.com/9Lmyk7N.png"/> 
+| [Notification Panel](https://github.com/fossasia/open-event-frontend/issues/1112) | [Attendee Form Builder](https://github.com/fossasia/open-event-frontend/issues/1112) | 
+| --- | --- |
+| <img src="https://i.imgur.com/9Lmyk7N.png"/> | <img src="https://i.imgur.com/BMB3Epd.png" /> 
+
 ## Link to commits
 
 [Open Event Server](https://github.com/fossasia/open-event-server/commits?author=srv-twry)
