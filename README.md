@@ -36,11 +36,12 @@ We kicked off the summer with the bonding period. Most of the time in the period
 
 ### Coding Phase I
 
-A lot of crucial features were implemented in this period. The highlight of this coding phase was the success implementation of the custom date and time pickers in the Orga app which allowed us to remove the use of observable fields in the models. The other important ones are as follows:
+A lot of crucial features were implemented in this period. The highlight of this coding phase was the success implementation of the custom **Date** and **Time** pickers in the *Orga app* which allowed us to remove the use of observable fields in the models. The other important ones are as follows:
 1. Server side integration of *Stripe Express checkout* for the event wizard.
 2. Addition of a schema defaulting decorator in order to fix the schema validation in the server.
-3. Addition of unit tests for the speakers module in the orga app.
+3. Addition of unit tests for the *speakers* module in the *Orga* app.
 4. Refactor of the Settings endpoint into Public, Non-Admin and Admin schemas.
+A lot of minor bugs such as *Internal server error* were solved along side the above mentioned features.
 
 | Custom date and time picker | Stripe Express checkout 
 | --- | --- |
@@ -48,11 +49,26 @@ A lot of crucial features were implemented in this period. The highlight of this
 
 ### Coding Phase II
 
+We started to gather momentum by the start of the coding phase II and hence this phase was the most productive coding phase of the project. We started out with the aim of completing the most important features of the project in this phase so that we can have ample time to test the features before they are pushed to production. The highlight of this coding phase was the successful implementation of the *Orders* endpoint in the *Open Event Server*. We were able to integrate payments via both **Stripe** and **Paypal**. Another major achievement of this period was the integration of *Soft Deletion* support in the server. This meant that the admin of the platform could easily restore all the user and event related information with a single click!
+Other important features implemented in this period are as follows:
+1. Server side implementation of the Tax endpoint.
+2. Implementation of endpoints for accessibility of *Access & Discount codes* via it's *code*.
+3. The API integration of *Access code* creation in the *Tickets tab* in the *Open Event Frontend*.
+4. Refactor of the *Main Presenter* in the *Open Event orga app* which led to improved architecture and code readability.
+5. Addition of a *Rate Limiter* in the *Abstract observables* in the *Open Event Orga app* which fixed multiple instances of infinite loops present in the project.
+As always numerous bugs were fixed in this period as well.
 
+| Custom date and time picker | Stripe Express checkout | 
+| --- | --- |
+| <img src=""/> | <img src="" />
 
+### Coding Phase III
+The third coding phase involved implementation of the remaining targets of the project. Most of the work on the server side was done and hence more emphasis was given on the *Frontend* side. We started off with the implementation of the *My Tickets* tab in the *Frontend*. We then moved  on to the implementation of user input validation throughout the project. Lastly we were able to implement automatic *Order expiry* in the *Server*.
+By this time, we were able to successfully achieve all the targets of the program. Since we had a good part of 2 weeks left in the coding phase we decided to go ahead with our stretch goals. The first stretch goal accomplished was the implementation of the *Attendee form builder* both on the server and frontend side. Now the event organizer could specify what information to collect from the ticket buyers which was a highly demanded feature. With a week still left in the coding period, we decided to integrate action buttons in the *Notification panel*. We started off with the server side support and quickly moved on to it's frontend integration.
+Apart from the above mentioned features, we spent a lot of time on fixing minor bugs and addition of unit tests whenever possible.
 
-
-
-
+| Custom date and time picker | Stripe Express checkout | 
+| --- | --- |
+| <img src=""/> | <img src="" />
 
 
