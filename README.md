@@ -43,9 +43,9 @@ A lot of crucial features were implemented in this period. The highlight of this
 4. Refactor of the Settings endpoint into Public, Non-Admin and Admin schemas.
 A lot of minor bugs such as *Internal server error* were solved along side the above mentioned features.
 
-| Custom date and time picker | Stripe Express checkout 
-| --- | --- |
-| <img src=""/> | <img src="" />
+| [Custom date and time picker](https://github.com/fossasia/open-event-orga-app/pull/932) |
+| --- |
+| <img src="https://i.imgur.com/cMGcCed.png"/> |
 
 ### Coding Phase II
 
