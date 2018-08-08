@@ -25,5 +25,34 @@ There were two major divisions of this project:
 
 ## Results
 
-Considering that we were able to achieve the project goals as well as implement additional features as our stretch goals, the project was a success.
+Considering that we were able to achieve the project goals as well as implement additional features as our stretch goals, the project was a **success**.
+
+### Community Bonding Period
+We kicked off the summer with the bonding period. Most of the time in the period was utilised in understanding the organization's community. Additionally we started the implementation of few of the missing endpoints in the orga app. We were able to successfully integrate the *tracks* and parts of the *speakers* api in the orga app.
+
+| Tracks | List of Speakers 
+| --- | --- |
+| <img src=""/> | <img src="" /> 
+
+### Coding Phase I
+
+A lot of crucial features were implemented in this period. The highlight of this coding phase was the success implementation of the custom date and time pickers in the Orga app which allowed us to remove the use of observable fields in the models. The other important ones are as follows:
+1. Server side integration of *Stripe Express checkout* for the event wizard.
+2. Addition of a schema defaulting decorator in order to fix the schema validation in the server.
+3. Addition of unit tests for the speakers module in the orga app.
+4. Refactor of the Settings endpoint into Public, Non-Admin and Admin schemas.
+
+| Custom date and time picker | Stripe Express checkout 
+| --- | --- |
+| <img src=""/> | <img src="" />
+
+### Coding Phase II
+
+
+
+
+
+
+
+
 
