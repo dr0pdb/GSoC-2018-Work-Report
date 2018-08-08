@@ -71,4 +71,37 @@ Apart from the above mentioned features, we spent a lot of time on fixing minor 
 | --- | --- |
 | <img src=""/> | <img src="" />
 
+## Link to commits
 
+[Open Event Server](https://github.com/fossasia/open-event-server/commits?author=srv-twry)
+
+<p align="left">
+  <img width="458" height="193" src="https://i.imgur.com/hxbObJZ.png">
+</p>
+
+[Open Event Frontend](https://github.com/fossasia/open-event-frontend/commits?author=srv-twry)
+
+<p align="left">
+  <img width="458" height="193" src="https://i.imgur.com/pMowm3Z.png">
+</p>
+
+
+[Open Event Orga app](https://github.com/fossasia/open-event-orga-app/commits?author=srv-twry)
+
+<p align="left">
+  <img width="458" height="193" src="https://i.imgur.com/UfR86Zx.png">
+</p>
+
+## Blog Posts
+
+All of my blog posts related to my work can be found in the FOSSASIA Blog [http://blog.fossasia.org/author/srv-twry/](http://blog.fossasia.org/author/srv-twry/)
+
+## Scrums
+
+My Scrum Reports which includes daily work report can be found [here](https://groups.google.com/forum/#!searchin/open-event/Saurav$20Tiwary%7Csort:relevance).
+
+## Social
+* [Facebook posts about the Project]()
+* [Tweets about the Project]() 
+* [Youtube Screencast about my Project]()
+* [Presentation about my Project]()
