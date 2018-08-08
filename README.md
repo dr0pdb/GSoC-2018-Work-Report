@@ -30,7 +30,7 @@ Considering that we were able to achieve the project goals as well as implement 
 ### Community Bonding Period
 We kicked off the summer with the bonding period. Most of the time in the period was utilised in understanding the organization's community. Additionally we started the implementation of few of the missing endpoints in the orga app. We were able to successfully integrate the *tracks* and parts of the *speakers* api in the orga app.
 
-| Tracks | List of Speakers 
+| [Tracks](https://github.com/fossasia/open-event-orga-app/issues/870) | [List of Speakers](https://github.com/fossasia/open-event-orga-app/pull/926) 
 | --- | --- |
 | <img src=""/> | <img src="" /> 
 
@@ -101,7 +101,7 @@ All of my blog posts related to my work can be found in the FOSSASIA Blog [http:
 My Scrum Reports which includes daily work report can be found [here](https://groups.google.com/forum/#!searchin/open-event/Saurav$20Tiwary%7Csort:relevance).
 
 ## Social
-* [Facebook posts about the Project]()
-* [Tweets about the Project]() 
+* [Facebook posts about the Project](https://www.facebook.com/search/str/fossasia/keywords_blended_posts?filters_rp_author=%7B%22name%22%3A%22author_me%22%2C%22args%22%3A%22%22%7D)
+* [Tweets about the Project](https://twitter.com/search?l=en&q=from%3Asrv_twry%20%40fossasia&src=typd&lang=en-gb) 
 * [Youtube Screencast about my Project]()
 * [Presentation about my Project]()
