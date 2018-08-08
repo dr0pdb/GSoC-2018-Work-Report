@@ -43,7 +43,7 @@ A lot of crucial features were implemented in this period. The highlight of this
 4. Refactor of the Settings endpoint into Public, Non-Admin and Admin schemas.
 A lot of minor bugs such as *Internal server error* were solved along side the above mentioned features.
 
-| [Custom date and time picker](https://github.com/fossasia/open-event-orga-app/pull/932) |
+| [Custom date and time picker](https://github.com/fossasia/open-event-orga-app/pull/932) |  
 | --- |
 | <img src="https://i.imgur.com/cMGcCed.png"/> |
 
@@ -58,7 +58,7 @@ Other important features implemented in this period are as follows:
 5. Addition of a *Rate Limiter* in the *Abstract observables* in the *Open Event Orga app* which fixed multiple instances of infinite loops present in the project.
 As always numerous bugs were fixed in this period as well.
 
-| Custom date and time picker | Stripe Express checkout | 
+| Payment via Stripe | Payment via Paypal | 
 | --- | --- |
 | <img src=""/> | <img src="" />
 
@@ -67,10 +67,9 @@ The third coding phase involved implementation of the remaining targets of the p
 By this time, we were able to successfully achieve all the targets of the program. Since we had a good part of 2 weeks left in the coding phase we decided to go ahead with our stretch goals. The first stretch goal accomplished was the implementation of the *Attendee form builder* both on the server and frontend side. Now the event organizer could specify what information to collect from the ticket buyers which was a highly demanded feature. With a week still left in the coding period, we decided to integrate action buttons in the *Notification panel*. We started off with the server side support and quickly moved on to it's frontend integration.
 Apart from the above mentioned features, we spent a lot of time on fixing minor bugs and addition of unit tests whenever possible.
 
-| Custom date and time picker | Stripe Express checkout | 
-| --- | --- |
-| <img src=""/> | <img src="" />
-
+| [Notification Panel](https://github.com/fossasia/open-event-frontend/issues/1112) | 
+| --- | 
+| <img src="https://i.imgur.com/9Lmyk7N.png"/> 
 ## Link to commits
 
 [Open Event Server](https://github.com/fossasia/open-event-server/commits?author=srv-twry)
