@@ -41,6 +41,7 @@ A lot of crucial features were implemented in this period. The highlight of this
 2. Addition of a schema defaulting decorator in order to fix the schema validation in the server.
 3. Addition of unit tests for the *speakers* module in the *Orga* app.
 4. Refactor of the Settings endpoint into Public, Non-Admin and Admin schemas.
+
 A lot of minor bugs such as *Internal server error* were solved along side the above mentioned features.
 
 | [Custom date and time picker](https://github.com/fossasia/open-event-orga-app/pull/932) |  
@@ -56,6 +57,7 @@ Other important features implemented in this period are as follows:
 3. The API integration of *Access code* creation in the *Tickets tab* in the *Open Event Frontend*.
 4. Refactor of the *Main Presenter* in the *Open Event orga app* which led to improved architecture and code readability.
 5. Addition of a *Rate Limiter* in the *Abstract observables* in the *Open Event Orga app* which fixed multiple instances of infinite loops present in the project.
+
 As always numerous bugs were fixed in this period as well.
 
 | Payment via Stripe | Payment via Paypal | 
@@ -63,7 +65,8 @@ As always numerous bugs were fixed in this period as well.
 | <img src=""/> | <img src="" />
 
 ### Coding Phase III
-The third coding phase involved implementation of the remaining targets of the project. Most of the work on the server side was done and hence more emphasis was given on the *Frontend* side. We started off with the implementation of the *My Tickets* tab in the *Frontend*. We then moved  on to the implementation of user input validation throughout the project. Lastly we were able to implement automatic *Order expiry* in the *Server*.
+The third coding phase involved implementation of the remaining targets of the project. Most of the work on the Server side was done and hence more emphasis was given on the *Frontend* side. We started off with the implementation of the *My Tickets* tab in the *Frontend*. We then moved  on to the implementation of user input validation throughout the project. Lastly we were able to implement automatic *Order expiry* in the *Server*.
+
 By this time, we were able to successfully achieve all the targets of the program. Since we had a good part of 2 weeks left in the coding phase we decided to go ahead with our stretch goals. The first stretch goal accomplished was the implementation of the *Attendee form builder* both on the server and frontend side. Now the event organizer could specify what information to collect from the ticket buyers which was a highly demanded feature. With a week still left in the coding period, we decided to integrate action buttons in the *Notification panel*. We started off with the server side support and quickly moved on to it's frontend integration.
 Apart from the above mentioned features, we spent a lot of time on fixing minor bugs and addition of unit tests whenever possible.
 
