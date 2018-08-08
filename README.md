@@ -32,7 +32,7 @@ We kicked off the summer with the bonding period. Most of the time in the period
 
 | [Tracks](https://github.com/fossasia/open-event-orga-app/issues/870) | [List of Speakers](https://github.com/fossasia/open-event-orga-app/pull/926) 
 | --- | --- |
-| <img src=""/> | <img src="" /> 
+| <img src="https://i.imgur.com/HgVob1U.png"/> | <img src="https://user-images.githubusercontent.com/21277837/39904192-5513fb18-54f4-11e8-8606-0fe04ad742eb.png" /> 
 
 ### Coding Phase I
 
