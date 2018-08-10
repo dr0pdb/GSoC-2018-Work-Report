@@ -36,7 +36,7 @@ We kicked off the summer with the bonding period. Most of the time in the period
 
 ### Coding Phase I
 
-A lot of crucial features were implemented in this period. The highlight of this coding phase was the success implementation of the custom **Date** and **Time** pickers in the *Orga app* which allowed us to remove the use of observable fields in the models. The other important ones are as follows:
+A lot of crucial features were implemented in this period. The highlight of this coding phase was the successful implementation of the custom **Date** and **Time** pickers in the *Orga app* which allowed us to remove the use of observable fields in the models. The other important ones are as follows:
 1. Server side integration of *Stripe Express checkout* for the event wizard.
 2. Addition of a schema defaulting decorator in order to fix the schema validation in the server.
 3. Addition of unit tests for the *speakers* module in the *Orga* app.
@@ -110,3 +110,6 @@ My Scrum Reports which includes daily work report can be found [here](https://gr
 * [Tweets about the Project](https://twitter.com/search?l=en&q=from%3Asrv_twry%20%40fossasia&src=typd&lang=en-gb) 
 * [Youtube Screencast about my Project]()
 * [Presentation about my Project]()
+
+## Reference
+[GSoC'17 work report by @rishiraj824](https://gist.github.com/rishiraj824/2d0a4848d863a148c61d03bf487ee88d)
