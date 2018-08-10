@@ -104,8 +104,8 @@ My Scrum Reports which includes daily work report can be found [here](https://gr
 ## Social
 * [Facebook posts about the Project](https://www.facebook.com/search/str/fossasia/keywords_blended_posts?filters_rp_author=%7B%22name%22%3A%22author_me%22%2C%22args%22%3A%22%22%7D)
 * [Tweets about the Project](https://twitter.com/search?l=en&q=from%3Asrv_twry%20%40fossasia&src=typd&lang=en-gb) 
-* [Youtube Screencast about my Project]()
-* [Presentation about my Project]()
+* [Screencast about my Project](https://drive.google.com/file/d/13l2ciqCb7pdeTbkv-PXmg_8kqWNqrs5o/view)
+* [Presentation about my Project](https://docs.google.com/presentation/d/1rew5oMiR8V5JAH6E_ElJtxWSd-QtWPY_NICODjEzMJU/edit)
 
-## Reference
+## References
 * [GSoC'17 work report by @rishiraj824](https://gist.github.com/rishiraj824/2d0a4848d863a148c61d03bf487ee88d)
