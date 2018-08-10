@@ -96,7 +96,7 @@ Apart from the above mentioned features, we spent a lot of time on fixing minor 
 ## Scope and Future Work
 
 Even though almost all of my work is done, there are still other areas in the overall project outside of my GSoC project's scope which needs some future work before one can start using the platform.  
-Apart from the above mentioned areas, there are certain features that can be integrated into the system in order to make it even better. One such feature can be to support **refunds** in the platform which will allow the ticket buyer to return the tickets if allowed by the event organiser.
+Apart from the above mentioned areas, there are certain features that can be integrated into the system in order to make it even better. One such feature can be to support **refunds** in the platform which will allow the ticket buyer to return the tickets if allowed by the event organiser. Another nice addition can be to add more customization options in the basic version of the **Attendee form builder**.
 
 ## Blog Posts
 
