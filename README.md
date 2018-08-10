@@ -60,10 +60,6 @@ Other important features implemented in this period are as follows:
 
 As always numerous bugs were fixed in this period as well.
 
-| Payment via Stripe | Payment via Paypal | 
-| --- | --- |
-| <img src=""/> | <img src="" />
-
 ### Coding Phase III
 The third coding phase involved implementation of the remaining targets of the project. Most of the work on the Server side was done and hence more emphasis was given on the *Frontend* side. We started off with the implementation of the *My Tickets* tab in the *Frontend*. We then moved  on to the implementation of user input validation throughout the project. Lastly we were able to implement automatic *Order expiry* in the *Server*.
 
@@ -112,4 +108,4 @@ My Scrum Reports which includes daily work report can be found [here](https://gr
 * [Presentation about my Project]()
 
 ## Reference
-[GSoC'17 work report by @rishiraj824](https://gist.github.com/rishiraj824/2d0a4848d863a148c61d03bf487ee88d)
+* [GSoC'17 work report by @rishiraj824](https://gist.github.com/rishiraj824/2d0a4848d863a148c61d03bf487ee88d)
