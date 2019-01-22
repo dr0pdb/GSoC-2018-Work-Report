@@ -10,7 +10,7 @@
 | **Student** | **Saurav Tiwary** |
 | **Github** | [@srv-twry](http://github.com/srv-twry)  |
 | **Organisation**  | [FOSSASIA](http://fossasia.org)  |
-| **Project** | [Open Event](https://summerofcode.withgoogle.com/projects/#5905844613414912) |  
+| **Project** | [Open Event](https://summerofcode.withgoogle.com/archive/2018/projects/5639603444776960/) |  
 | **Technology** | Flask, Ember JS and Android |
 
 ## Project Description
